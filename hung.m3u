@@ -8,6 +8,36 @@ https://synguyen.net/redirect.php?sv=0&token=ac2ef1fcd0bb7616245a732f5d0e51ab&re
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://live3.thapcam.net/tc/img/thapcam-logo.png",90p4
 https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8
 
+#EXTINF:0 group-title="K+" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Kplus_Sport_1_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130437&path-prefix=vi", K+ Sports 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Kplus_Sport_2_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130347&path-prefix=vi", K+ Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/Kplus_Life_HD.png/revision/latest/scale-to-width-down/250?cb=20211011130051&path-prefix=vi", K+ Life HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+
+#EXTINF:0 group-title="K+" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Kplus_Cine_HD.png/revision/latest/scale-to-width-down/250?cb=20211011125856&path-prefix=vi", K+ Cine HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=CB5FCF3BAD6F1844&Ticket=C0E743A782EB7132
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+
+
 #EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://live3.thapcam.net/tc/img/thapcam-logo.png",BEAR HD 1
 https://179665839.global.cdnfastest.com/live/cachuoisd2/chunklist.m3u8
 #EXTINF:-1 group-title="BEAR SPORT [Thập Cẩm]" tvg-logo="https://live3.thapcam.net/tc/img/thapcam-logo.png",BEAR HD 2
