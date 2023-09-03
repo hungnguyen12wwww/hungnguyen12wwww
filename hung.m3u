@@ -32,6 +32,18 @@ https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="1hung" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
+#EXTINF:0,1.Sky Sports Main Event-Canada VPN
+http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
+#EXTINF:0,2.Sky Sports Football FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
+#EXTINF:0,2.Sky Sports Premier League FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
+#EXTINF:0,1. ViaPlay Sports 1 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
+#EXTINF:0,1.Now Premier Sports HK 1 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176285&extension=ts&play_token=hZO78j1FTN
+#EXTINF:0,1.Now Premier Sports HK 2 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176284&extension=ts&play_token=xwsvGjGZXu
 
 
 
@@ -119,6 +131,20 @@ http://b4tv.live/b4tv/b4tv/47.m3u8
 http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47:18001/b4tube.png", B4TUBE (Kênh giải trí đỉnh cao)
 http://b4tv.live/b4tv/b4tv/4.m3u8
+
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
+http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
+https://live-ali2.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-720p.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
+https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+
+
+
+
 
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtv1-hd/dvr-${start}-${offset}.m3u8", VTV1
