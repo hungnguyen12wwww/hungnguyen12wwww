@@ -32,8 +32,7 @@ https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="1hung" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
 https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
-#EXTINF:0,1.Sky Sports Main Event-Canada VPN
-http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
+
 #EXTINF:0,2.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
 #EXTINF:0,2.Sky Sports Premier League FHD
@@ -42,8 +41,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&exten
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
 #EXTINF:0,1.Now Premier Sports HK 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176285&extension=ts&play_token=hZO78j1FTN
-#EXTINF:0,1.Now Premier Sports HK 2 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176284&extension=ts&play_token=xwsvGjGZXu
+
 
 
 
